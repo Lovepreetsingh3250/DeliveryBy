@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="camara_nativa" type="id">@+id/camara_nativa</item>
+    <item name="camara_java" type="id">@+id/camara_java</item>
+</resources>
